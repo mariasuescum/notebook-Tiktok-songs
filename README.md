@@ -40,7 +40,7 @@ python -m venv env  # Crear el entorno virtual
 source env/bin/activate  # Activar el entorno en Linux/Mac
 env\Scripts\activate  # Activar el entorno en Windows
 ```
-
+🚀 Dataset [kaggle](https://www.kaggle.com/datasets/mayankanand2701/top-1000-youtube-channels-in-the-world).
 
 
 
