@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # notebook-youtube
 
+=======
+>>>>>>> c2ddfd040236e947e48d60c6515c1163dc6e219f
 # Exploratory Data Analysis (EDA) - Top Youtubers Dataset
 
 ## Descripción del Dataset
@@ -7,7 +10,11 @@ Este dataset contiene información sobre los 1000 canales de YouTube más popula
 
 ## Pasos del Análisis
 1. **Carga de Datos**
+<<<<<<< HEAD
    - Se utilizó la codificación `latin1` para evitar errores de lectura.
+=======
+   - Se utilizó la codificación `ISO-8859-1` para evitar errores de lectura.
+>>>>>>> c2ddfd040236e947e48d60c6515c1163dc6e219f
    
 2. **Análisis de Valores Nulos**
    - Se encontró que la única columna con valores faltantes es `Category` (43 valores nulos, 4.3% del total).
@@ -29,5 +36,9 @@ Este dataset contiene información sobre los 1000 canales de YouTube más popula
 - Profundizar en correlaciones entre variables clave.
 
 ---
+<<<<<<< HEAD
 *Este README documenta el proceso de análisis exploratorio realizado sobre el dataset.*
+=======
+
+>>>>>>> c2ddfd040236e947e48d60c6515c1163dc6e219f
 
